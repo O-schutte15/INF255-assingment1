@@ -13,4 +13,4 @@ shoppingList.shift();
 shoppingList.shift();
 shoppingList.reverse();
 
-console.log("The list contains ${shoppingList.length} items");
+console.log(`The list contains ${shoppingList.length} items`);
